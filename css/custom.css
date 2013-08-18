@@ -1,4 +1,40 @@
 
+.step li{
+  line-height: 1.8;
+}
+
+li s{
+  opacity: 0.2;
+}
+li s:hover{
+  opacity: 1;
+}
+
+
+.step.active .action{
+  z-index: 99999;
+}
+
+.mini{
+  font-size: 20px;
+}
+.mid{
+  font-size: 32px;
+}
+
+.section-head{
+  font-size: 100px;
+  margin-bottom: 50px;
+}
+
+.subtitle{
+  border-style:dotted;
+  border-width: 0px;
+  border-bottom-width: 3px;
+  font-size: 64px;
+  margin-bottom: 50px;
+  margin-left: -75px;
+}
 
 .g-1{
   margin-left: -75px;
