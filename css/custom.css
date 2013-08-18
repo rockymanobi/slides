@@ -1,3 +1,37 @@
-#overwrite{
-  font-size: 1000px;
+
+
+.g-1{
+  margin-left: -75px;
+}
+
+.g1{
+  margin-left: 75px;
+}
+
+.g2{
+  margin-left: 150px;
+}
+#title {
+    line-height: 1.3;
+    padding: 0;
+}
+#title .footer{
+  text-align: right;
+}
+
+#title .big{
+    font-size: 140px;
+}
+
+#title h1{
+    font-size: 64px;
+ }
+
+
+#markdownDemo{
+  border-width: 1px;
+  border-style: solid;
+  width: 800px;
+  height: 500px;
+
 }
