@@ -44,6 +44,15 @@ li s:hover{
   margin-left: 75px;
 }
 
+
+.step.thankyou{
+  opacity: 0;
+  width: 1200px;
+}
+.step.thankyou.active{
+  opacity: 1;
+}
+
 .g2{
   margin-left: 150px;
 }
